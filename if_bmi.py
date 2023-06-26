@@ -1,7 +1,7 @@
 w = int(input("請輸入您的體重:"))
 h = int(input("請輸入您的身高:"))
 
-bmi = "___fill in___" #BMI算法
+bmi = "___fill in___" #BMI算法（身高單位是公尺哦）
 
 print(bmi)
 print("您的BMI為 %.2f" %(bmi)) #%.2f 取到小數到二位
