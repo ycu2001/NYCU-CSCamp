@@ -1,4 +1,4 @@
-w = int(input("請輸入您的體重:"))
+w = float(input("請輸入您的體重(公斤):"))
 h = float(input("請輸入您的身高(公尺):"))
 
 bmi = "___fill_in___" #BMI算法（身高單位是公尺哦）
