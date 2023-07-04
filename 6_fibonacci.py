@@ -1,10 +1,8 @@
-def fibonacci(n):
-    if n == 0:
-        return 0
-    elif n == 1:
+def factorial(n):
+    if n == 0 or n == 1:
         return 1
     else:
-        #begin your code here
-        pass
-n = int(input())
-print(fibonacci(n))
+        #begin your code
+
+n = int(input("請輸入數字："))
+print(factorial(n))
